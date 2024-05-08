@@ -100,5 +100,5 @@ def main():
     else:
         print("Error: Unable to read CSV file.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
